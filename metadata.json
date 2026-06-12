@@ -1,0 +1,6 @@
+{
+  "name": "Vui Cùng World Cup 2026",
+  "description": "Ứng dụng đặt cược vui World Cup 2026 dành cho phòng ban, giúp theo dõi tỷ lệ, quản lý trận đấu và tính toán tổng hợp quỹ ăn chơi tiện lợi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
